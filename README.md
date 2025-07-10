@@ -13,7 +13,7 @@ decrypts a file using the keyword FEATHER. It is an error not to supply a keywor
 
 Write to command line as follows:
 ---------------------------------------------
-./main -d FEATHER encrypt.txt output.txt
+./main -d FEATHER encrypt.txt output.txt OR
 ./main -e FEATHER encrypt.txt output.txt
 
 ---------------------------------------------
